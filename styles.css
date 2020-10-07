@@ -1,0 +1,61 @@
+body {
+  background-color: black;
+  color: snow;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.tableBasicFormat {
+  border: 3px solid snow;
+  border-collapse: collapse;
+  margin: 10px;
+  padding: 10px;
+}
+
+table th {
+  color: white;
+  background-color: green;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+table td {
+  padding: 20px;
+  border-spacing: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+  
+.basicStructureTable {
+  border: thick solid snow;
+  color: lime;
+  font-weight: normal;
+  padding: 10px;
+  width: 850px;
+}
+
+.CodeExamples {
+    font-family: Lucida Console, Courier, monospace;
+    color: lime;
+    font-weight: normal;
+    border: 3px solid snow;
+  }
+
+.HTML_Grouptag {
+  background-color: #0a290a;
+}
+
+.HTML_CSS_Subtags {
+  font-family: Lucida Console, Courier, monospace;
+  color: inherit;
+  font-weight: normal;
+  padding-left: 10px;
+  background-color: #051405;
+}
+
+.Centered {
+  text-align: center;
+}
+
+.listindent {
+  padding: 15px;
+}
